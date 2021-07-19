@@ -1,2 +1,10 @@
 *.DS_Store
 dist
+
+.ws10
+css
+img
+js
+.txt
+.html
+.zip
